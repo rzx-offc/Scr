@@ -1,0 +1,77 @@
+{
+  "provider": "Dailymotion",
+  "playerId": "xtv3w",
+  "videoId": "k1QbM64pWishM0x0Mdl",
+  "originalUrl": "https://geo.dailymotion.com/player/xtv3w.html?video=k1QbM64pWishM0x0Mdl",
+  "checkedAt": "2026-11-21T13:46:24.212Z",
+  "endpoints": [
+    {
+      "url": "https://geo.dailymotion.com/player/xtv3w.js",
+      "status": "OK",
+      "matches": {
+        "VIDEO_QUALITIESREADY": [
+          "VIDEO_BUFFERING:\"waiting\",VIDEO_DURATIONCHANGE:\"video_durationchange\",VIDEO_END:\"video_end\",VIDEO_PAUSE:\"pause\",VIDEO_PLAY:\"play\",VIDEO_PLAYING:\"playing\",VIDEO_PROGRESS:\"progress\",VIDEO_QUALITIESREADY:\"qualitiesavailable\",VIDEO_QUALITYCHANGE:\"qualitychange\",VIDEO_SEEKEND:\"seeked\",VIDEO_SEEKSTART:\"seeking\",VIDEO_START:\"video_start\",VIDEO_SUBTITLESCHANGE:\"subtitlechange\",VIDEO_SUBTITLESREADY:\"subtitlesavailable\",VIDEO_TIMECHANGE:\"timeupdate\"},PRIVA"
+        ],
+        "VIDEO_QUALITYCHANGE": [
+          "ANGE:\"video_durationchange\",VIDEO_END:\"video_end\",VIDEO_PAUSE:\"pause\",VIDEO_PLAY:\"play\",VIDEO_PLAYING:\"playing\",VIDEO_PROGRESS:\"progress\",VIDEO_QUALITIESREADY:\"qualitiesavailable\",VIDEO_QUALITYCHANGE:\"qualitychange\",VIDEO_SEEKEND:\"seeked\",VIDEO_SEEKSTART:\"seeking\",VIDEO_START:\"video_start\",VIDEO_SUBTITLESCHANGE:\"subtitlechange\",VIDEO_SUBTITLESREADY:\"subtitlesavailable\",VIDEO_TIMECHANGE:\"timeupdate\"},PRIVATE:{ALL:\"all\",BACK_TO_INLINE_DISPLAY_REQU"
+        ],
+        "qualitiesAvailable": [
+          "ng\",VIDEO_DURATIONCHANGE:\"video_durationchange\",VIDEO_END:\"video_end\",VIDEO_PAUSE:\"pause\",VIDEO_PLAY:\"play\",VIDEO_PLAYING:\"playing\",VIDEO_PROGRESS:\"progress\",VIDEO_QUALITIESREADY:\"qualitiesavailable\",VIDEO_QUALITYCHANGE:\"qualitychange\",VIDEO_SEEKEND:\"seeked\",VIDEO_SEEKSTART:\"seeking\",VIDEO_START:\"video_start\",VIDEO_SUBTITLESCHANGE:\"subtitlechange\",VIDEO_SUBTITLESREADY:\"subtitlesavailable\",VIDEO_TIMECHANGE:\"timeupdate\"},PRIVATE:{ALL:\"all\",BACK_T"
+        ],
+        "quality": [
+          "video_durationchange\",VIDEO_END:\"video_end\",VIDEO_PAUSE:\"pause\",VIDEO_PLAY:\"play\",VIDEO_PLAYING:\"playing\",VIDEO_PROGRESS:\"progress\",VIDEO_QUALITIESREADY:\"qualitiesavailable\",VIDEO_QUALITYCHANGE:\"qualitychange\",VIDEO_SEEKEND:\"seeked\",VIDEO_SEEKSTART:\"seeking\",VIDEO_START:\"video_start\",VIDEO_SUBTITLESCHANGE:\"subtitlechange\",VIDEO_SUBTITLESREADY:\"subtitlesavailable\",VIDEO_TIMECHANGE:\"timeupdate\"},PRIVATE:{ALL:\"all\",BACK_TO_INLINE_DISPLA",
+          "hange\",VIDEO_END:\"video_end\",VIDEO_PAUSE:\"pause\",VIDEO_PLAY:\"play\",VIDEO_PLAYING:\"playing\",VIDEO_PROGRESS:\"progress\",VIDEO_QUALITIESREADY:\"qualitiesavailable\",VIDEO_QUALITYCHANGE:\"qualitychange\",VIDEO_SEEKEND:\"seeked\",VIDEO_SEEKSTART:\"seeking\",VIDEO_START:\"video_start\",VIDEO_SUBTITLESCHANGE:\"subtitlechange\",VIDEO_SUBTITLESREADY:\"subtitlesavailable\",VIDEO_TIMECHANGE:\"timeupdate\"},PRIVATE:{ALL:\"all\",BACK_TO_INLINE_DISPLAY_REQUESTED:\"pe",
+          "IP_IFRAME_CHUNK:\"initPesPipChunk\",LOAD:\"load\",LOOP:\"loop\",NOTIFY_EMBEDDER_URL_CHANGED:\"notifyEmbedderURLChanged\",NOTIFY_PIP_CHANGED:\"notifyPesPipChanged\",PAUSE:\"pause\",PLAY:\"play\",QUALITY:\"quality\",PLAYER_VISIBILITY:\"notifyPesPlayerVisibility\",PRELOAD:\"preload\",SET_EID:\"setEid\",SCALE:\"scaleMode\",SEEK:\"seek\",SPEED:\"speed\",STATE:\"playerstate\",SUBTITLES:\"subtitle\",DRM_CONFIGURED:\"drmConfigured\",RESPOND_DRM_TOKEN:\"respondDrmToken\",UPDATE",
+          "_CHUNK:\"initPesPipChunk\",LOAD:\"load\",LOOP:\"loop\",NOTIFY_EMBEDDER_URL_CHANGED:\"notifyEmbedderURLChanged\",NOTIFY_PIP_CHANGED:\"notifyPesPipChanged\",PAUSE:\"pause\",PLAY:\"play\",QUALITY:\"quality\",PLAYER_VISIBILITY:\"notifyPesPlayerVisibility\",PRELOAD:\"preload\",SET_EID:\"setEid\",SCALE:\"scaleMode\",SEEK:\"seek\",SPEED:\"speed\",STATE:\"playerstate\",SUBTITLES:\"subtitle\",DRM_CONFIGURED:\"drmConfigured\",RESPOND_DRM_TOKEN:\"respondDrmToken\",UPDATE_NEON_TRA"
+        ]
+      }
+    },
+    {
+      "url": "https://geo.dailymotion.com/libs/player/xtv3w.js",
+      "status": "OK",
+      "matches": {
+        "VIDEO_QUALITIESREADY": [
+          "VIDEO_BUFFERING:\"waiting\",VIDEO_DURATIONCHANGE:\"video_durationchange\",VIDEO_END:\"video_end\",VIDEO_PAUSE:\"pause\",VIDEO_PLAY:\"play\",VIDEO_PLAYING:\"playing\",VIDEO_PROGRESS:\"progress\",VIDEO_QUALITIESREADY:\"qualitiesavailable\",VIDEO_QUALITYCHANGE:\"qualitychange\",VIDEO_SEEKEND:\"seeked\",VIDEO_SEEKSTART:\"seeking\",VIDEO_START:\"video_start\",VIDEO_SUBTITLESCHANGE:\"subtitlechange\",VIDEO_SUBTITLESREADY:\"subtitlesavailable\",VIDEO_TIMECHANGE:\"timeupdate\"},PRIVA"
+        ],
+        "VIDEO_QUALITYCHANGE": [
+          "ANGE:\"video_durationchange\",VIDEO_END:\"video_end\",VIDEO_PAUSE:\"pause\",VIDEO_PLAY:\"play\",VIDEO_PLAYING:\"playing\",VIDEO_PROGRESS:\"progress\",VIDEO_QUALITIESREADY:\"qualitiesavailable\",VIDEO_QUALITYCHANGE:\"qualitychange\",VIDEO_SEEKEND:\"seeked\",VIDEO_SEEKSTART:\"seeking\",VIDEO_START:\"video_start\",VIDEO_SUBTITLESCHANGE:\"subtitlechange\",VIDEO_SUBTITLESREADY:\"subtitlesavailable\",VIDEO_TIMECHANGE:\"timeupdate\"},PRIVATE:{ALL:\"all\",BACK_TO_INLINE_DISPLAY_REQU"
+        ],
+        "qualitiesAvailable": [
+          "ng\",VIDEO_DURATIONCHANGE:\"video_durationchange\",VIDEO_END:\"video_end\",VIDEO_PAUSE:\"pause\",VIDEO_PLAY:\"play\",VIDEO_PLAYING:\"playing\",VIDEO_PROGRESS:\"progress\",VIDEO_QUALITIESREADY:\"qualitiesavailable\",VIDEO_QUALITYCHANGE:\"qualitychange\",VIDEO_SEEKEND:\"seeked\",VIDEO_SEEKSTART:\"seeking\",VIDEO_START:\"video_start\",VIDEO_SUBTITLESCHANGE:\"subtitlechange\",VIDEO_SUBTITLESREADY:\"subtitlesavailable\",VIDEO_TIMECHANGE:\"timeupdate\"},PRIVATE:{ALL:\"all\",BACK_T"
+        ],
+        "quality": [
+          "video_durationchange\",VIDEO_END:\"video_end\",VIDEO_PAUSE:\"pause\",VIDEO_PLAY:\"play\",VIDEO_PLAYING:\"playing\",VIDEO_PROGRESS:\"progress\",VIDEO_QUALITIESREADY:\"qualitiesavailable\",VIDEO_QUALITYCHANGE:\"qualitychange\",VIDEO_SEEKEND:\"seeked\",VIDEO_SEEKSTART:\"seeking\",VIDEO_START:\"video_start\",VIDEO_SUBTITLESCHANGE:\"subtitlechange\",VIDEO_SUBTITLESREADY:\"subtitlesavailable\",VIDEO_TIMECHANGE:\"timeupdate\"},PRIVATE:{ALL:\"all\",BACK_TO_INLINE_DISPLA",
+          "hange\",VIDEO_END:\"video_end\",VIDEO_PAUSE:\"pause\",VIDEO_PLAY:\"play\",VIDEO_PLAYING:\"playing\",VIDEO_PROGRESS:\"progress\",VIDEO_QUALITIESREADY:\"qualitiesavailable\",VIDEO_QUALITYCHANGE:\"qualitychange\",VIDEO_SEEKEND:\"seeked\",VIDEO_SEEKSTART:\"seeking\",VIDEO_START:\"video_start\",VIDEO_SUBTITLESCHANGE:\"subtitlechange\",VIDEO_SUBTITLESREADY:\"subtitlesavailable\",VIDEO_TIMECHANGE:\"timeupdate\"},PRIVATE:{ALL:\"all\",BACK_TO_INLINE_DISPLAY_REQUESTED:\"pe",
+          "IP_IFRAME_CHUNK:\"initPesPipChunk\",LOAD:\"load\",LOOP:\"loop\",NOTIFY_EMBEDDER_URL_CHANGED:\"notifyEmbedderURLChanged\",NOTIFY_PIP_CHANGED:\"notifyPesPipChanged\",PAUSE:\"pause\",PLAY:\"play\",QUALITY:\"quality\",PLAYER_VISIBILITY:\"notifyPesPlayerVisibility\",PRELOAD:\"preload\",SET_EID:\"setEid\",SCALE:\"scaleMode\",SEEK:\"seek\",SPEED:\"speed\",STATE:\"playerstate\",SUBTITLES:\"subtitle\",DRM_CONFIGURED:\"drmConfigured\",RESPOND_DRM_TOKEN:\"respondDrmToken\",UPDATE",
+          "_CHUNK:\"initPesPipChunk\",LOAD:\"load\",LOOP:\"loop\",NOTIFY_EMBEDDER_URL_CHANGED:\"notifyEmbedderURLChanged\",NOTIFY_PIP_CHANGED:\"notifyPesPipChanged\",PAUSE:\"pause\",PLAY:\"play\",QUALITY:\"quality\",PLAYER_VISIBILITY:\"notifyPesPlayerVisibility\",PRELOAD:\"preload\",SET_EID:\"setEid\",SCALE:\"scaleMode\",SEEK:\"seek\",SPEED:\"speed\",STATE:\"playerstate\",SUBTITLES:\"subtitle\",DRM_CONFIGURED:\"drmConfigured\",RESPOND_DRM_TOKEN:\"respondDrmToken\",UPDATE_NEON_TRA"
+        ]
+      }
+    }
+  ],
+  "findings": {
+    "iframe": {},
+    "playerScripts": {
+      "VIDEO_QUALITIESREADY": [
+        "VIDEO_BUFFERING:\"waiting\",VIDEO_DURATIONCHANGE:\"video_durationchange\",VIDEO_END:\"video_end\",VIDEO_PAUSE:\"pause\",VIDEO_PLAY:\"play\",VIDEO_PLAYING:\"playing\",VIDEO_PROGRESS:\"progress\",VIDEO_QUALITIESREADY:\"qualitiesavailable\",VIDEO_QUALITYCHANGE:\"qualitychange\",VIDEO_SEEKEND:\"seeked\",VIDEO_SEEKSTART:\"seeking\",VIDEO_START:\"video_start\",VIDEO_SUBTITLESCHANGE:\"subtitlechange\",VIDEO_SUBTITLESREADY:\"subtitlesavailable\",VIDEO_TIMECHANGE:\"timeupdate\"},PRIVA"
+      ],
+      "VIDEO_QUALITYCHANGE": [
+        "ANGE:\"video_durationchange\",VIDEO_END:\"video_end\",VIDEO_PAUSE:\"pause\",VIDEO_PLAY:\"play\",VIDEO_PLAYING:\"playing\",VIDEO_PROGRESS:\"progress\",VIDEO_QUALITIESREADY:\"qualitiesavailable\",VIDEO_QUALITYCHANGE:\"qualitychange\",VIDEO_SEEKEND:\"seeked\",VIDEO_SEEKSTART:\"seeking\",VIDEO_START:\"video_start\",VIDEO_SUBTITLESCHANGE:\"subtitlechange\",VIDEO_SUBTITLESREADY:\"subtitlesavailable\",VIDEO_TIMECHANGE:\"timeupdate\"},PRIVATE:{ALL:\"all\",BACK_TO_INLINE_DISPLAY_REQU"
+      ],
+      "qualitiesAvailable": [
+        "ng\",VIDEO_DURATIONCHANGE:\"video_durationchange\",VIDEO_END:\"video_end\",VIDEO_PAUSE:\"pause\",VIDEO_PLAY:\"play\",VIDEO_PLAYING:\"playing\",VIDEO_PROGRESS:\"progress\",VIDEO_QUALITIESREADY:\"qualitiesavailable\",VIDEO_QUALITYCHANGE:\"qualitychange\",VIDEO_SEEKEND:\"seeked\",VIDEO_SEEKSTART:\"seeking\",VIDEO_START:\"video_start\",VIDEO_SUBTITLESCHANGE:\"subtitlechange\",VIDEO_SUBTITLESREADY:\"subtitlesavailable\",VIDEO_TIMECHANGE:\"timeupdate\"},PRIVATE:{ALL:\"all\",BACK_T"
+      ],
+      "quality": [
+        "video_durationchange\",VIDEO_END:\"video_end\",VIDEO_PAUSE:\"pause\",VIDEO_PLAY:\"play\",VIDEO_PLAYING:\"playing\",VIDEO_PROGRESS:\"progress\",VIDEO_QUALITIESREADY:\"qualitiesavailable\",VIDEO_QUALITYCHANGE:\"qualitychange\",VIDEO_SEEKEND:\"seeked\",VIDEO_SEEKSTART:\"seeking\",VIDEO_START:\"video_start\",VIDEO_SUBTITLESCHANGE:\"subtitlechange\",VIDEO_SUBTITLESREADY:\"subtitlesavailable\",VIDEO_TIMECHANGE:\"timeupdate\"},PRIVATE:{ALL:\"all\",BACK_TO_INLINE_DISPLA",
+        "hange\",VIDEO_END:\"video_end\",VIDEO_PAUSE:\"pause\",VIDEO_PLAY:\"play\",VIDEO_PLAYING:\"playing\",VIDEO_PROGRESS:\"progress\",VIDEO_QUALITIESREADY:\"qualitiesavailable\",VIDEO_QUALITYCHANGE:\"qualitychange\",VIDEO_SEEKEND:\"seeked\",VIDEO_SEEKSTART:\"seeking\",VIDEO_START:\"video_start\",VIDEO_SUBTITLESCHANGE:\"subtitlechange\",VIDEO_SUBTITLESREADY:\"subtitlesavailable\",VIDEO_TIMECHANGE:\"timeupdate\"},PRIVATE:{ALL:\"all\",BACK_TO_INLINE_DISPLAY_REQUESTED:\"pe",
+        "IP_IFRAME_CHUNK:\"initPesPipChunk\",LOAD:\"load\",LOOP:\"loop\",NOTIFY_EMBEDDER_URL_CHANGED:\"notifyEmbedderURLChanged\",NOTIFY_PIP_CHANGED:\"notifyPesPipChanged\",PAUSE:\"pause\",PLAY:\"play\",QUALITY:\"quality\",PLAYER_VISIBILITY:\"notifyPesPlayerVisibility\",PRELOAD:\"preload\",SET_EID:\"setEid\",SCALE:\"scaleMode\",SEEK:\"seek\",SPEED:\"speed\",STATE:\"playerstate\",SUBTITLES:\"subtitle\",DRM_CONFIGURED:\"drmConfigured\",RESPOND_DRM_TOKEN:\"respondDrmToken\",UPDATE",
+        "_CHUNK:\"initPesPipChunk\",LOAD:\"load\",LOOP:\"loop\",NOTIFY_EMBEDDER_URL_CHANGED:\"notifyEmbedderURLChanged\",NOTIFY_PIP_CHANGED:\"notifyPesPipChanged\",PAUSE:\"pause\",PLAY:\"play\",QUALITY:\"quality\",PLAYER_VISIBILITY:\"notifyPesPlayerVisibility\",PRELOAD:\"preload\",SET_EID:\"setEid\",SCALE:\"scaleMode\",SEEK:\"seek\",SPEED:\"speed\",STATE:\"playerstate\",SUBTITLES:\"subtitle\",DRM_CONFIGURED:\"drmConfigured\",RESPOND_DRM_TOKEN:\"respondDrmToken\",UPDATE_NEON_TRA"
+      ]
+    }
+  },
+  "analysis": {
+    "qualityEvents": true,
+    "qualityChangeEvents": true,
+    "qualityMethods": false,
+    "note": "Keyword detection is not proof that a public API method is callable."
+  }
+}
