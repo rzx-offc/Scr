@@ -1,0 +1,128 @@
+{
+  "provider": "Dailymotion",
+  "playerId": "xtv3w.html",
+  "videoId": "k1QbM64pWishM0x0Mdl",
+  "page": "https://geo.dailymotion.com/player/xtv3w.html?video=k1QbM64pWishM0x0Mdl",
+  "metadata": {
+    "viewport": "initial-scale=1,viewport-fit=cover",
+    "robots": "noindex",
+    "title": "Dailymotion Video Player"
+  },
+  "scripts": [
+    "https://geo.dailymotion.com/static/latest/cdn/dmp.photon_vendor.ceb7a5d6ecf11b323802.js",
+    "https://geo.dailymotion.com/static/latest/cdn/dmp.photon_includes.25d13a79fc1f73099000.js",
+    "https://geo.dailymotion.com/static/latest/cdn/dmp.photon_boot.30c90de92699446a72a0.js"
+  ],
+  "htmlMatches": {},
+  "scriptMatches": {
+    "https://geo.dailymotion.com/static/latest/cdn/dmp.photon_vendor.ceb7a5d6ecf11b323802.js": {
+      "resolution": [
+        "roughObj),n=!0,y.sendMonitoringDebugPixel(s.MONITORING.AD_IMPRESSION,u.monitoringQS()),r.onInjectionResolution((function(){a(e,t)})),r.resolveInjection())},AdStopped:i,AdVideoComplete:i,AdError:function(e,t){y.sendMonitoringDebugPixel(s.MONITORING.AD_ERROR,u.monitoringQS()),a(e,t)}};return",
+        "DE_NO_WINDOW,d.buildMonitoringQS()),y.sendMonitoringDebugPixel(o,d.buildMonitoringQS())},onInjectionResolution:function(e){r.addCallback(e),n&&r.executeCallbacks()},resolveInjection:function(){o=!0}}},m=function(){var e,t=!1,n=function(t){var r,o=!1;try{o=\"unloadComplete\"===(r=JSON.parse(t"
+      ]
+    },
+    "https://geo.dailymotion.com/static/latest/cdn/dmp.photon_includes.25d13a79fc1f73099000.js": {
+      "quality": [
+        "ERR_WRONG_CONTENT_ID:()=>F,PLAYER_ERR_XHR_CALL_FAILED:()=>$,PLAYER_PAYMENT_TYPE_NOT_SUPPORTED:()=>K,QUALITY_SWITCHER_ERROR:()=>B,SSAI_SESSION_INIT_ERROR:()=>z,STREAMING_MANIFEST_LOAD_ERROR:()=>H,STREAMING_QUALITY_LOAD_ERROR:()=>q});const o=\"DM001\",i=\"DM002\",r=\"DM003\",a=\"DM005\",d=\"DM006\"",
+        "TY_SWITCHER_ERROR:()=>B,SSAI_SESSION_INIT_ERROR:()=>z,STREAMING_MANIFEST_LOAD_ERROR:()=>H,STREAMING_QUALITY_LOAD_ERROR:()=>q});const o=\"DM001\",i=\"DM002\",r=\"DM003\",a=\"DM005\",d=\"DM006\",l=\"DM007\",s=\"DM008\",c=\"DM010\",_=\"DM011\",u=\"DM012\",w=\"DM013\",p=\"DM014\",m=\"DM016\",E=\"DM017\",P=\"DM018\",f=\"D",
+        "R_NO_CONTEXTUAL_VIDEO_FOUND\",j=\"PLAYER_ERR_EMPTY_EMBEDDER\",K=\"PLAYER_PAYMENT_TYPE_NOT_SUPPORTED\",B=\"QUALITY_SWITCHER_ERROR\",H=\"STREAMING_MANIFEST_LOAD_ERROR\",q=\"STREAMING_QUALITY_LOAD_ERROR\",z=\"SSAI_SESSION_INIT_ERROR\"},7638:(e,t,n)=>{n.d(t,{Q6:()=>h,wG:()=>f,jl:()=>p,B1:()=>E,hn:()=>m,",
+        "YMENT_TYPE_NOT_SUPPORTED\",B=\"QUALITY_SWITCHER_ERROR\",H=\"STREAMING_MANIFEST_LOAD_ERROR\",q=\"STREAMING_QUALITY_LOAD_ERROR\",z=\"SSAI_SESSION_INIT_ERROR\"},7638:(e,t,n)=>{n.d(t,{Q6:()=>h,wG:()=>f,jl:()=>p,B1:()=>E,hn:()=>m,u0:()=>g,C5:()=>P});const o={Airplay:{color:\"#007AFF:white\"},API:{color",
+        "taLoader:{color:\"brown:white\"}}},PosterSooner:{color:\"pink:green\"},Preloading:{color:\"green:white\"},Quality:{color:\"#ff4040:white\",children:{DynamicQuality:{color:\"#cd3333:white\"},HLS:{color:\"pink\"},StaticQuality:{color:\"#ee3b3b:white\"},DRM:{color:\"#8b0000:white\"}}},Services:{color:\"dar",
+        "olor:\"pink:green\"},Preloading:{color:\"green:white\"},Quality:{color:\"#ff4040:white\",children:{DynamicQuality:{color:\"#cd3333:white\"},HLS:{color:\"pink\"},StaticQuality:{color:\"#ee3b3b:white\"},DRM:{color:\"#8b0000:white\"}}},Services:{color:\"darkviolet\"},Stats:{color:\"green:white\",children:{E",
+        "ty:{color:\"#ff4040:white\",children:{DynamicQuality:{color:\"#cd3333:white\"},HLS:{color:\"pink\"},StaticQuality:{color:\"#ee3b3b:white\"},DRM:{color:\"#8b0000:white\"}}},Services:{color:\"darkviolet\"},Stats:{color:\"green:white\",children:{Emitter:{color:\"lawngreen\"},EventBus:{color:\"lawngreen\"},I"
+      ],
+      "resolution": [
+        "l.Tc)(\"imaIframeCallback\",{description:\"IMA SDK initialization\",color:\"#c62828\"}),(0,l.Tc)(\"autoplayResolution\",{description:\"Browser autoplay policy probe (muted vs unmuted)\",color:\"#ab47bc\"}),(0,l.Tc)(\"vmapLoad\",{description:\"VMAP fetch and parse\",color:\"#d32f2f\"}),(0,l.Tc)(\"adPrerollToI",
+        "ayer?.type&&(window.dm.posterSooner={displayPosterSooner:V,removePosterSooner:F,getAndStorePosterUrlResolution:G,thumbnailUrl:null});var $=n(6918);window.dmp_sendEarlyEvent=(e,t)=>{const n=window.__PLAYER_CONFIG__,o=(0,i.jl)(\"Stats\",\"EventBus\"),r=(0,i.jl)(\"NeonData\");if(void 0!==n){const i"
+      ],
+      "qualities": [
+        "\"playercomponentsready\",e,{once:!0})}));function De(e){if(!e||\"object\"!=typeof e)return{};const t=e.qualities?.auto?.[0]?.url,n=e.qualities?.auto?.[0]?.type,o=\"string\"==typeof e.channel?{id:e.channel_id,name:e.channel}:e.channel||void 0,i={access_id:e.access_id??e.id,advertising:e.adverti",
+        "e:!0})}));function De(e){if(!e||\"object\"!=typeof e)return{};const t=e.qualities?.auto?.[0]?.url,n=e.qualities?.auto?.[0]?.type,o=\"string\"==typeof e.channel?{id:e.channel_id,name:e.channel}:e.channel||void 0,i={access_id:e.access_id??e.id,advertising:e.advertising,category:o,features:{has_"
+      ]
+    },
+    "https://geo.dailymotion.com/static/latest/cdn/dmp.photon_boot.30c90de92699446a72a0.js": {
+      "quality": [
+        "Seeked(){_=!1},reset(){this.stopWatching(),m=null,A=null,E=!1,p=!1,v=null,h=null,g=null,_=!1}},T=s(\"Quality\",\"HLS\"),I=(e,t)=>`${t}/mp4;codecs=${e}`,b=function(){if(\"undefined\"==typeof self)return;return(!(arguments.length>0&&void 0!==arguments[0])||arguments[0]||!self.MediaSource)&&self",
+        "etHeight}))??-1:e.findIndex((e=>{let{width:a}=e;return a>=t.offsetWidth}))??-1;return T.log(`Capped quality for player (${t.offsetWidth}x${t.offsetHeight}): ${e.map(((e,t)=>{let{name:i,width:n,height:r}=e;return`\\n${t===a?\"✔\":\"✘\"} ${i} (${n}x${r})`})).join(\"\")}`,`\\n${-1===a?\"✔\":\"✘\"} aut",
+        "r,config:o,onSpeedChange:s,chromecastRemoteEnabledEventEmitter:l,speedChangeRequestedEventEmitter:d,qualityChangeRequestedEventEmitter:u,streamTechChangeEventEmitter:c,videoWaitEventEmitter:m,stateHelpers:A,seekRequestedEventEmitter:E,videoSeekedEventEmitter:p,videoSeekingEventEmitter:v",
+        ",oe=()=>{m.emit()},se=()=>{k.emit()},le=()=>{b.emit()},de=()=>{L.emit()},ue=()=>{O.log(\"set initial quality from stream tech change\"),ke()},ce=()=>{G.removeEventListener(\"play\",ce),G.addEventListener(\"pause\",Ae),G.addEventListener(\"timeupdate\",Ee),W.notify({name:\"vital_content_ready_to_",
+        "].name},ue=25,ce=(e,t)=>e.reduce(((e,a)=>Math.abs(t-e)<Math.abs(t-a)?e:a));class me{static normalizeQuality(e){const[t=\"\",a=ue]=(e||\"\").split(\"@\");if(null!=se[t]){const e=(i=se[t],JSON.parse(JSON.stringify(i)));return e.framerate=a,e.supportHFR&&a>ue&&(e.label=`${e.label}${e.framerate}`",
+        "reateFromLevels(e,t){const a=new me;for(let i=0;i<e.length;i++){const n=e[i],r=n.name||me.getNumericQualityNameFromVideoSize(n.width,n.height),o=me.normalizeQuality(r);let s={smooth:!0,supported:!0};if(o){if(n.index=i,null!=n.videoCodec){const e={type:\"media-source\",video:{contentType:`",
+        "h;i++){const n=e[i],r=n.name||me.getNumericQualityNameFromVideoSize(n.width,n.height),o=me.normalizeQuality(r);let s={smooth:!0,supported:!0};if(o){if(n.index=i,null!=n.videoCodec){const e={type:\"media-source\",video:{contentType:`video/mp4;codecs=${n.videoCodec}`,width:n.width,height:n.",
+        "videoCodec.startsWith(\"avc1\")||n.videoCodec.startsWith(\"av01\")&&s.supported&&s.smooth){const e=a.addQuality(o.name,o.label,o.width,o.height,o.framerate,o.tag,t,i,n);null!=e&&a.obsoleteIndexes.push(e)}}}return a}static getNumericQualityNameFromVideoSize(e,t){const{mapping:a,dimension:i}=",
+        "th,o.height,o.framerate,o.tag,t,i,n);null!=e&&a.obsoleteIndexes.push(e)}}}return a}static getNumericQualityNameFromVideoSize(e,t){const{mapping:a,dimension:i}=e>=t?{mapping:le,dimension:e}:{mapping:de,dimension:t},n=ce(Object.keys(a),i);return a[Number(n)]}constructor(){this._qualities=",
+        "[Number(n)]}constructor(){this._qualities={},this.obsoleteIndexes=[],this.hasNumericQualities=!1}addQuality(e,t,a,n,r,o,s){let l=arguments.length>7&&void 0!==arguments[7]?arguments[7]:-1,d=arguments.length>8&&void 0!==arguments[8]?arguments[8]:null;if(this.hasQuality(e)||(this._qualitie"
+      ],
+      "resolution": [
+        "rogressiveURL:e[\"PROGRESSIVE-URI\"]||\"\",name:e.NAME||\"\",bandwidth:e.BANDWIDTH||0,codecs:e.CODECS||\"\",resolution:e.RESOLUTION||[0,0],backups:[]})}catch(e){throw q(F.M3U8_PARSE_ERROR,`Failed to parse rendition URL: ${e.message}`)}}return a}function j(e,t){const a=[];let i=null;Y.lastIndex=0;l",
+        ":e[\"PROGRESSIVE-URI\"]||\"\",name:e.NAME||\"\",bandwidth:e.BANDWIDTH||0,codecs:e.CODECS||\"\",resolution:e.RESOLUTION||[0,0],backups:[]})}catch(e){throw q(F.M3U8_PARSE_ERROR,`Failed to parse rendition URL: ${e.message}`)}}return a}function j(e,t){const a=[];let i=null;Y.lastIndex=0;let n=0;for(;n",
+        "a=K.exec(e));)switch(null===t&&(t={}),a[1]){case\"BANDWIDTH\":t[a[1]]=parseInt(a[2],10)||0;break;case\"RESOLUTION\":t[a[1]]=[parseInt(a[2].split(\"x\")[0],10)||0,parseInt(a[2].split(\"x\")[1],10)||0];break;case\"CODECS\":case\"NAME\":case\"PROGRESSIVE-URI\":t[a[1]]=0===a[2].indexOf('\"')?a[2].slice(1,-1)",
+        "Emitter:D,seekRequestedEventEmitter:S,sequenceStartedEventEmitter:w,loadVideoEventEmitter:R,autoplayResolutionEventEmitter:P,canPlayOneSourceEventEmitter:T,videoPlayEventEmitter:I,videoLoadedMetadataEventEmitter:b,videoEndedEventEmitter:L,videoSlotStartedEventEmitter:N,videoSlotEndedEventE",
+        "geEventEmitter:y,onQualityLoadStart:D,sequenceStartedEventEmitter:S,loadVideoEventEmitter:w,autoplayResolutionEventEmitter:R,canPlayOneSourceEventEmitter:P,videoLoadedMetadataEventEmitter:T,videoEndedEventEmitter:I,videoSlotStartedEventEmitter:b,videoSlotEndedEventEmitter:L,adLinearWillSta",
+        "geEventEmitter:y,onQualityLoadStart:K,sequenceStartedEventEmitter:w,loadVideoEventEmitter:R,autoplayResolutionEventEmitter:P,canPlayOneSourceEventEmitter:T,videoLoadedMetadataEventEmitter:b,videoEndedEventEmitter:L,videoSlotStartedEventEmitter:N,videoSlotEndedEventEmitter:O,adLinearWillSta",
+        "ture_start\",w=\"info_requested\",R=\"loadedmetadata\",P=\"pause\",T=\"play\",I=\"playback_ready\",b=\"playback_resolution\",L=\"player_heavyadsintervention\",C=\"player_preview_computed\",N=\"playerstate\",O=\"videolistchange\",M=\"playing\",k=\"progress\",x=\"qualitiesavailable\",U=\"qualitychange\",H=\"recodisplay\",",
+        "FIG_CONSUMED\"),o=(0,i.I)(\"API_SET_CUST_CONFIG\"),s=(0,i.I)(\"API_SET_DRM_CONFIG\"),l=(0,i.I)(\"AUTOPLAY_RESOLUTION\"),d=(0,i.I)(),u=(0,i.I)(),c=(0,i.I)(\"CHROMECAST_CHANGE_REQUESTED\"),m=(0,i.I)(),A=(0,i.I)(),E=(0,i.I)(),p=(0,i.I)(),v=(0,i.I)(),h=(0,i.I)(\"COMPONENTS_READY\"),g=(0,i.I)(\"CONTENT_OFF",
+        "eturn Promise.resolve();if(l)return l;const a=e.cloneNode(!1);return window.dm.perf.metric(\"autoplayResolution\").start(),l=function(e,t){let{soundOnly:a}=t;return new Promise(((t,r)=>{let o,s=!1,l=!1;const c=e=>{s||(p(),r(e))},m=e=>{s||(l&&(e=f),p(),t(e))},A=e=>{if(s)return;const a=(0,n.uQ",
+        "ECTED (both configs tested, reason: ${t})`)}throw e})).finally((()=>{window.dm.perf.metric(\"autoplayResolution\").end(),l=null})),l}var A=a(5312),E=a(2403),p=a(7966);const v=(0,o.jl)(\"Player\",\"Autoplay\"),h=\"Resolved\",g=\"Rejected\",_=\"Allowed\",f=\"MuteForced\",y=\"AlreadyResolved\",D=\"PageHidden\""
+      ],
+      "720p": [
+        ":\"\"},480:{name:\"480\",label:\"480p\",width:848,height:480,tag:\"\",supportHFR:!0},720:{name:\"720\",label:\"720p\",width:1280,height:720,tag:\"HD\",supportHFR:!0},1080:{name:\"1080\",label:\"1080p\",width:1920,height:1080,tag:\"HD\",supportHFR:!0},1440:{name:\"1440\",label:\"1440p\",width:2560,height:144",
+        "0\":{name:\"480\",label:\"480p\",width:848,height:480,tag:\"\",supportHFR:!0},\"AV1-720\":{name:\"720\",label:\"720p\",width:1280,height:720,tag:\"HD\",supportHFR:!0},\"AV1-1080\":{name:\"1080\",label:\"1080p\",width:1920,height:1080,tag:\"HD\",supportHFR:!0},\"AV1-1440\":{name:\"1440\",label:\"1440p\",width:256"
+      ],
+      "1080p": [
+        "720:{name:\"720\",label:\"720p\",width:1280,height:720,tag:\"HD\",supportHFR:!0},1080:{name:\"1080\",label:\"1080p\",width:1920,height:1080,tag:\"HD\",supportHFR:!0},1440:{name:\"1440\",label:\"1440p\",width:2560,height:1440,tag:\"HD\",supportHFR:!0},2160:{name:\"2160\",label:\"2160p\",width:3840,height:21",
+        "ame:\"720\",label:\"720p\",width:1280,height:720,tag:\"HD\",supportHFR:!0},\"AV1-1080\":{name:\"1080\",label:\"1080p\",width:1920,height:1080,tag:\"HD\",supportHFR:!0},\"AV1-1440\":{name:\"1440\",label:\"1440p\",width:2560,height:1440,tag:\"HD\",supportHFR:!0},\"AV1-2160\":{name:\"2160\",label:\"2160p\",width:38"
+      ],
+      "480p": [
+        "height:240,tag:\"\"},380:{name:\"380\",label:\"380p\",width:512,height:380,tag:\"\"},480:{name:\"480\",label:\"480p\",width:848,height:480,tag:\"\",supportHFR:!0},720:{name:\"720\",label:\"720p\",width:1280,height:720,tag:\"HD\",supportHFR:!0},1080:{name:\"1080\",label:\"1080p\",width:1920,height:1080,tag:\"",
+        "FR:!0},\"AV1-380\":{name:\"380\",label:\"380p\",width:512,height:380,tag:\"\"},\"AV1-480\":{name:\"480\",label:\"480p\",width:848,height:480,tag:\"\",supportHFR:!0},\"AV1-720\":{name:\"720\",label:\"720p\",width:1280,height:720,tag:\"HD\",supportHFR:!0},\"AV1-1080\":{name:\"1080\",label:\"1080p\",width:1920,heigh"
+      ],
+      "getQuality": [
+        "null!=this._qualities[e]}hasLevels(e){return this.hasQuality(e)&&this._qualities[e].levels.length>0}getQualityForLevel(e){for(const t in this._qualities){if(this._qualities[t].levels.find((t=>{let{index:a}=t;return a===e})))return this._qualities[t]}return null}getQualityForName(e){return ",
+        "_qualities[t].levels.find((t=>{let{index:a}=t;return a===e})))return this._qualities[t]}return null}getQualityForName(e){return this.hasQuality(e)?this._qualities[e]:null}hasOnePlayableQuality(){return null!=this.getFirstAvailable()||this.adaptiveSupported()}getFirstAvailable(){return this",
+        "this._qualities[e].levels[n].bitrate<i&&(a=n);return this._qualities[e].levels[a].index}return null}getQualityNameOrClosestNumericQualityName(e){return this.hasQuality(e)?e:i(e)&&this.hasNumericQualities?ce(this.availableQualityNames(),e):null}getHighestQuality(){return this.hasNumericQual",
+        "e=()=>{if(!M)throw new Error(\"Quality list is not available yet\");return M},se=e=>{const t=re(),i=t.getQualityNameOrClosestNumericQualityName(e??\"\"),n=t.getQualityNameOrClosestNumericQualityName(a);return e&&i?(pe.log(`Choosing quality based on '${e}' (qs or requested value)`),t.getQuality",
+        "ilable yet\");return M},se=e=>{const t=re(),i=t.getQualityNameOrClosestNumericQualityName(e??\"\"),n=t.getQualityNameOrClosestNumericQualityName(a);return e&&i?(pe.log(`Choosing quality based on '${e}' (qs or requested value)`),t.getQualityForName(i)):n?(pe.log(`Choosing quality based on '${a",
+        "ricQualityName(a);return e&&i?(pe.log(`Choosing quality based on '${e}' (qs or requested value)`),t.getQualityForName(i)):n?(pe.log(`Choosing quality based on '${a}' (player size)`),t.getQualityForName(n)):(pe.log(\"No numeric quality available, picking the first one available...\"),t.getFir",
+        "sted value)`),t.getQualityForName(i)):n?(pe.log(`Choosing quality based on '${a}' (player size)`),t.getQualityForName(n)):(pe.log(\"No numeric quality available, picking the first one available...\"),t.getFirstAvailable())},le=async e=>{if(M||await F,!k)return;pe.log(\"QUALITY_CHANGE_REQUESTE",
+        "meFromVideoSize(o.width,o.height);a=l;let d={adaptive:e.adaptiveSupported(),quality:null};const u=e.getQualityNameOrClosestNumericQualityName(t??\"\");return t&&u?(d.adaptive=!1,d.quality=e.getQualityForName(u),pe.log(`Choosing quality based on '${t}' (local storage)`)):d.quality=se(s),d=ye(",
+        "};const u=e.getQualityNameOrClosestNumericQualityName(t??\"\");return t&&u?(d.adaptive=!1,d.quality=e.getQualityForName(u),pe.log(`Choosing quality based on '${t}' (local storage)`)):d.quality=se(s),d=ye(d),pe.log(\"Initial quality set\",d),d})()},ue=()=>{clearInterval(G)},ce=e=>null===e.adapt",
+        "lity.name){const t=Ee.getNumericQualityNameFromVideoSize(L.videoWidth,L.videoHeight);e.quality=re().getQualityForName(t),e=ye(e,t)}ae=2,(e=>{const t=L.videoWidth,a=L.videoHeight,i=t>0&&a>0,n=t!==Y||a!==Q,o=e.adaptive!==K.adaptive,s=\"audio\"===r.metadata.info?.media_type;if(i&&(n||o)||s){K=e"
+      ],
+      "qualityChange": [
+        "r,config:o,onSpeedChange:s,chromecastRemoteEnabledEventEmitter:l,speedChangeRequestedEventEmitter:d,qualityChangeRequestedEventEmitter:u,streamTechChangeEventEmitter:c,videoWaitEventEmitter:m,stateHelpers:A,seekRequestedEventEmitter:E,videoSeekedEventEmitter:p,videoSeekingEventEmitter:v,loadV",
+        "tter:n,config:r,playerSizeAPI:o,speedChangeRequestedEventEmitter:s,qualitiesAvailableEventEmitter:l,qualityChangedEventEmitter:d,qualityChangeRequestedEventEmitter:u,qualityStatsRequestedEventEmitter:c,qualityStatsRespondedEventEmitter:m,streamTechChangeEventEmitter:A,utilsHelpers:E,onQuality",
+        ":o,speedChangeRequestedEventEmitter:s,qualitiesAvailableEventEmitter:l,qualityChangedEventEmitter:d,qualityChangeRequestedEventEmitter:u,qualityStatsRequestedEventEmitter:c,qualityStatsRespondedEventEmitter:m,streamTechChangeEventEmitter:A,utilsHelpers:E,onQualityLoadStart:p,seekRequestedEven",
+        "RemoteEnabledEventEmitter:A,chromecastSessionStoppedEventEmitter:E,qualitiesAvailableEventEmitter:p,qualityChangedEventEmitter:v,qualityChangeRequestedEventEmitter:h,qualityStatsRequestedEventEmitter:g,qualityStatsRespondedEventEmitter:_,liveOnToOffAirEventEmitter:f,streamTechChangeEventEmitt",
+        "hromecastSessionStoppedEventEmitter:E,qualitiesAvailableEventEmitter:p,qualityChangedEventEmitter:v,qualityChangeRequestedEventEmitter:h,qualityStatsRequestedEventEmitter:g,qualityStatsRespondedEventEmitter:_,liveOnToOffAirEventEmitter:f,streamTechChangeEventEmitter:y,onQualityLoadStart:D,seq",
+        "lsHelpers:c,isGKEnabled:m,settingsSignal:A,onStreamingCellChange:E,qualitiesAvailableEventEmitter:p,qualityChangedEventEmitter:v,qualityChangeRequestedEventEmitter:h,qualityStatsRequestedEventEmitter:g,qualityStatsRespondedEventEmitter:_,liveOnToOffAirEventEmitter:f,streamTechChangeEventEmitt",
+        "tingsSignal:A,onStreamingCellChange:E,qualitiesAvailableEventEmitter:p,qualityChangedEventEmitter:v,qualityChangeRequestedEventEmitter:h,qualityStatsRequestedEventEmitter:g,qualityStatsRespondedEventEmitter:_,liveOnToOffAirEventEmitter:f,streamTechChangeEventEmitter:y,videoSelectedEventEmitte",
+        "RemoteEnabledEventEmitter:A,chromecastSessionStoppedEventEmitter:E,qualitiesAvailableEventEmitter:p,qualityChangedEventEmitter:v,qualityChangeRequestedEventEmitter:h,qualityStatsRequestedEventEmitter:g,qualityStatsRespondedEventEmitter:_,liveOnToOffAirEventEmitter:f,streamTechChangeEventEmitt",
+        "hromecastSessionStoppedEventEmitter:E,qualitiesAvailableEventEmitter:p,qualityChangedEventEmitter:v,qualityChangeRequestedEventEmitter:h,qualityStatsRequestedEventEmitter:g,qualityStatsRespondedEventEmitter:_,liveOnToOffAirEventEmitter:f,streamTechChangeEventEmitter:y,onQualityLoadStart:D,seq",
+        "RemoteEnabledEventEmitter:A,chromecastSessionStoppedEventEmitter:E,qualitiesAvailableEventEmitter:p,qualityChangedEventEmitter:v,qualityChangeRequestedEventEmitter:h,qualityStatsRequestedEventEmitter:g,qualityStatsRespondedEventEmitter:_,liveOnToOffAirEventEmitter:f,streamTechChangeEventEmitt"
+      ],
+      "videoQuality": [
+        ":O,videoOwnerAvatars:M,videoOwnerId:k,videoOwnerScreenname:U,videoOwnerUsername:x,videoThumbnails:H,videoQuality:c,videoQualitiesList:u,videoSubtitles:-1!==A?A:null,videoSubtitlesList:m,videoTime:$(l),videoTitle:v,...\"nativeBridge\"===window.DMP_API_SETTING?{videoStreamUrl:B}:{},videoViewId:G"
+      ],
+      "availableQualities": [
+        "eturn null}adaptiveSupported(){return!0}availableQualityNames(){return Object.keys(this._qualities)}availableQualities(){const e=Object.keys(this._qualities).map((e=>{const{levels:t,...a}=this._qualities[e];return a})).reverse();return{adaptiveSupported:this.adaptiveSupported(),qualities:e}}getObs",
+        ";return pe.log(\"The stream has been loaded\"),N=!1,M=new Ee(e.object),pe.log(\"QUALITIES_AVAILABLE\",M.availableQualities()),l.emit(M.availableQualities()),k=M.hasOnePlayableQuality(),f.emit({ok:k}),ne=e.object.subtitles,void H()}catch(e){N=!1;const t=he(e,\"name\");if(\"AbortError\"===t)return;if(pe.err",
+        "been loaded\"),N=!1,M=new Ee(e.object),pe.log(\"QUALITIES_AVAILABLE\",M.availableQualities()),l.emit(M.availableQualities()),k=M.hasOnePlayableQuality(),f.emit({ok:k}),ne=e.object.subtitles,void H()}catch(e){N=!1;const t=he(e,\"name\");if(\"AbortError\"===t)return;if(pe.error(\"The stream loading has fail",
+        "x-mpegURL\"===t})),o=()=>{K=Boolean(Y&&Y.hasOnePlayableQuality()),Y&&(lt.log(\"QUALITIES_AVAILABLE\",Y.availableQualities()),p.emit(Y.availableQualities())),Q()};if(null==r)return void o();let s;await Pe(r);try{s=await ce().waitForManifest()}catch{return void o()}e&&R.start({hlsjs:ce().hls});const l=",
+        "ean(Y&&Y.hasOnePlayableQuality()),Y&&(lt.log(\"QUALITIES_AVAILABLE\",Y.availableQualities()),p.emit(Y.availableQualities())),Q()};if(null==r)return void o();let s;await Pe(r);try{s=await ce().waitForManifest()}catch{return void o()}e&&R.start({hlsjs:ce().hls});const l=s.manifestData.levels,d=s.resou"
+      ],
+      "qualities": [
+        "imension:e}:{mapping:de,dimension:t},n=ce(Object.keys(a),i);return a[Number(n)]}constructor(){this._qualities={},this.obsoleteIndexes=[],this.hasNumericQualities=!1}addQuality(e,t,a,n,r,o,s){let l=arguments.length>7&&void 0!==arguments[7]?arguments[7]:-1,d=arguments.length>8&&void 0!==arg",
+        "s(a),i);return a[Number(n)]}constructor(){this._qualities={},this.obsoleteIndexes=[],this.hasNumericQualities=!1}addQuality(e,t,a,n,r,o,s){let l=arguments.length>7&&void 0!==arguments[7]?arguments[7]:-1,d=arguments.length>8&&void 0!==arguments[8]?arguments[8]:null;if(this.hasQuality(e)||(",
+        "s[7]:-1,d=arguments.length>8&&void 0!==arguments[8]?arguments[8]:null;if(this.hasQuality(e)||(this._qualities[e]={name:e,label:t,tag:o,width:a,height:n,framerate:r,resource:s,index:l,levels:[]}),i(e)&&(this.hasNumericQualities=!0),null!=d){if(null!=this._qualities[e].levels[0]&&this._qual",
+        "e:e,label:t,tag:o,width:a,height:n,framerate:r,resource:s,index:l,levels:[]}),i(e)&&(this.hasNumericQualities=!0),null!=d){if(null!=this._qualities[e].levels[0]&&this._qualities[e].levels[0].videoCodec!=d.videoCodec&&this._qualities[e].levels[0].bitrate>d.bitrate){const t=this._qualities[",
+        "merate:r,resource:s,index:l,levels:[]}),i(e)&&(this.hasNumericQualities=!0),null!=d){if(null!=this._qualities[e].levels[0]&&this._qualities[e].levels[0].videoCodec!=d.videoCodec&&this._qualities[e].levels[0].bitrate>d.bitrate){const t=this._qualities[e].levels[0].index;return this._qualit",
+        "vels:[]}),i(e)&&(this.hasNumericQualities=!0),null!=d){if(null!=this._qualities[e].levels[0]&&this._qualities[e].levels[0].videoCodec!=d.videoCodec&&this._qualities[e].levels[0].bitrate>d.bitrate){const t=this._qualities[e].levels[0].index;return this._qualities[e].levels[0]=d,t}this._qua",
+        "if(null!=this._qualities[e].levels[0]&&this._qualities[e].levels[0].videoCodec!=d.videoCodec&&this._qualities[e].levels[0].bitrate>d.bitrate){const t=this._qualities[e].levels[0].index;return this._qualities[e].levels[0]=d,t}this._qualities[e].levels.push(d)}}hasQuality(e){return null!=th",
+        "].levels[0].videoCodec!=d.videoCodec&&this._qualities[e].levels[0].bitrate>d.bitrate){const t=this._qualities[e].levels[0].index;return this._qualities[e].levels[0]=d,t}this._qualities[e].levels.push(d)}}hasQuality(e){return null!=this._qualities[e]}hasLevels(e){return this.hasQuality(e)&",
+        "._qualities[e].levels[0].bitrate>d.bitrate){const t=this._qualities[e].levels[0].index;return this._qualities[e].levels[0]=d,t}this._qualities[e].levels.push(d)}}hasQuality(e){return null!=this._qualities[e]}hasLevels(e){return this.hasQuality(e)&&this._qualities[e].levels.length>0}getQua",
+        "d.bitrate){const t=this._qualities[e].levels[0].index;return this._qualities[e].levels[0]=d,t}this._qualities[e].levels.push(d)}}hasQuality(e){return null!=this._qualities[e]}hasLevels(e){return this.hasQuality(e)&&this._qualities[e].levels.length>0}getQualityForLevel(e){for(const t in th"
+      ]
+    }
+  }
+}
